@@ -12,7 +12,9 @@ font-family: 'Numans', sans-serif;
 
 .container{
 height: 100%;
-align-content: center;
+align-content: center; 
+margin-top: 20px;
+
 }
 
 .card{
