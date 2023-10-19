@@ -24,7 +24,7 @@ background-color: rgba(0,0,0,0.5) !important;
 }
 
 .social_icon span{
-font-size: 60px;
+font-size: 50px;
 margin-left: 10px;
 color: #FFC312;
 }
@@ -40,7 +40,7 @@ color: white;
 
 .social_icon{
 position: absolute;
-right: 20px;
+right: 23px;
 top: -45px;
 }
 
@@ -73,6 +73,7 @@ margin-right: 5px;
 color: black;
 background-color: #FFC312;
 width: 100px;
+margin-right: 55px;
 
 }
 
